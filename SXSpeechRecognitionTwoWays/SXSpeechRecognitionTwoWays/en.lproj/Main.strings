@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "全局开始"; ObjectID = "Fbk-Jt-AuD"; */
+"Fbk-Jt-AuD.normalTitle" = "全局开始";
+
+/* Class = "UIButton"; normalTitle = "开始"; ObjectID = "Hbk-V4-jO6"; */
+"Hbk-V4-jO6.normalTitle" = "开始";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "LfT-d9-hHn"; */
+"LfT-d9-hHn.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "重启"; ObjectID = "TCb-1p-Qkf"; */
+"TCb-1p-Qkf.normalTitle" = "重启";
+
+/* Class = "UIButton"; normalTitle = "全局停止"; ObjectID = "YVq-lS-UgN"; */
+"YVq-lS-UgN.normalTitle" = "全局停止";
+
+/* Class = "UILabel"; text = "占位文字，蒜蓉粉丝娃娃菜"; ObjectID = "dCO-XW-KYH"; */
+"dCO-XW-KYH.text" = "占位文字，蒜蓉粉丝娃娃菜";
+
+/* Class = "UILabel"; text = "SFSpeechURLRecognitionRequest方式识别"; ObjectID = "dmr-3W-m4B"; */
+"dmr-3W-m4B.text" = "SFSpeechURLRecognitionRequest方式识别";
+
+/* Class = "UIButton"; normalTitle = "结束"; ObjectID = "h3L-SU-pxp"; */
+"h3L-SU-pxp.normalTitle" = "结束";
+
+/* Class = "UILabel"; text = "SFSpeechAudioBufferRecognitionRequest方式识别"; ObjectID = "zD1-ao-f7q"; */
+"zD1-ao-f7q.text" = "SFSpeechAudioBufferRecognitionRequest方式识别";
